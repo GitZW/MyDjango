@@ -1,0 +1,5 @@
+django ==1.11
+requests ==2.8.1
+PyMySql==0.8.1
+python-dateutil
+django-cors-headers==1.1.0
